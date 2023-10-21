@@ -14,6 +14,7 @@ public class ToBookAProductFromFlipkart2 {
 	@Test(priority = 2)
 	public void searchProduct() {
 		System.out.println("The Product is found");
+System.out.println("The Product is found");
 	}
 	
 	@Test(priority = 3)
